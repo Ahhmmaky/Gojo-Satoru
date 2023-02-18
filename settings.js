@@ -19,10 +19,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['96891103640']
+global.owner = ['393516093315']
 global.premium = ['96891103640']
-global.ownernomer = '96891103640'
-global.ownername = '( الـمـطـور )'
+global.ownernomer = '40737910350'
+global.ownername = '( AHMED ABDELAZIZ )'
 global.botname = '( بـوت غـوجـو )'
 global.footer = '( غـوجـو )'
 global.ig = 'https://github.com/nexusNw'
