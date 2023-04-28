@@ -21,7 +21,7 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['393516093315']
 global.premium = ['96891103640']
-global.ownernomer = '40737910350'
+global.ownernomer = '393278169630'
 global.ownername = '( AHMED ABDELAZIZ )'
 global.botname = '( بـوت غـوجـو )'
 global.footer = '( غـوجـو )'
